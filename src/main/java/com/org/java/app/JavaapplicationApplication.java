@@ -8,6 +8,6 @@ public class JavaapplicationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaapplicationApplication.class, args);
-		System.out.println("hellogffggfgf");
+		System.out.println("hellogffggfgfgg");
 	}
 }
