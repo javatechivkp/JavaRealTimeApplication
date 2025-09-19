@@ -10,5 +10,7 @@ public class JavaapplicationApplication {
 		SpringApplication.run(JavaapplicationApplication.class, args);
 		System.out.println("tfufuytrtgttut");
 		System.out.println("tfufuytrtgttut");
+		System.out.println("tfufuytrtgttut");
+		System.out.println("tfufuytrtgttut");
 	}
 }
